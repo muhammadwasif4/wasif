@@ -1,0 +1,154 @@
+.container-fluid {
+    background: #F6F6F6 !important;
+    /* height: 50px !important; */
+
+}
+
+.ert {
+    padding-top: 8px !important;
+    display: flex;
+}
+
+.tyy {
+    width: 136px !important;
+    position: absolute !important;
+    top: 2px;
+    left: 30px;
+}
+
+.nav-link {
+    font-weight: 500 !important;
+
+}
+
+.card1,
+.card2,
+.card3 {
+    display: flex;
+    width: 330px;
+    height: 100px;
+    background-color: #F6F6F6;
+    box-shadow: 2px 4px 8px grey;
+    margin-top: 10px;
+    border-radius: 10px 140px 30px 140px;
+}
+
+h3.df {
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    padding-right: 50px;
+    color: #0E7EC1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 549 !important;
+}
+
+.free {
+    padding-left: 40px;
+    padding-bottom: 10px;
+    width: 180px;
+}
+
+.maincard {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+@media screen and (max-width: 600px) {
+
+    .card1,
+    .card2,
+    .card3 {
+        width: 100%;
+    }
+}
+
+.nex {
+    margin-top: 28px;
+}
+
+.card {
+    width: 250px;
+    margin-top: 10px;
+}
+
+.DFG {
+    text-align: center;
+    padding-top: 30px;
+    color: #0E7EC1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold !important;
+    text-shadow: 2px 2px 6px gray;
+}
+
+.by{
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+}
+
+.btn-primary {
+    width: 100%;
+    background-color: #0E7EC1;
+}
+
+.carder {
+    background-color: #F6F6F6;
+    box-shadow: 2px 4px 6px grey;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+
+.dcv {
+    width: 100%;
+}
+
+.dc {
+    float: right;
+    width: 70%;
+    padding-top: 100px;
+}
+
+.qw {
+    position: absolute;
+    top: 150px;
+    left: 120px;
+    width: 40%;
+}
+
+.ery {
+    font-size: 68px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-shadow: 2px 4px 6px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.vb {
+    position: absolute;
+    top: 270px;
+    left: 120px;
+    width: 180px;
+    background-color: aqua;
+    border: #0E7EC1;
+
+}
+
+.ty {
+    text-align: justify;
+}
+
+.btn-secondary {
+    position: absolute;
+    top: 400px;
+    left: 120px;
+
+}
+
+@media screen and (max-width: 600px) {
+    .carder {
+        width: 100%;
+    }
+}
